@@ -5,7 +5,7 @@ Compressor
 Compressor is a lightweight and powerful android image compression library. Compressor will allow you to compress large photos into smaller sized photos with very less or negligible loss in quality of the image.
 
 
-Add it in your root build.gradle at the end of repositories:
+# Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
 		repositories {
